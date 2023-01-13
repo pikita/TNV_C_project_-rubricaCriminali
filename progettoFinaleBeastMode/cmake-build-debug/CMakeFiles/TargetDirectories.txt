@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/progettoFinaleBeastMode/cmake-build-debug/CMakeFiles/progettoFinaleBeastMode.dir
+C:/Users/user/Desktop/progettoFinaleBeastMode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/progettoFinaleBeastMode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
