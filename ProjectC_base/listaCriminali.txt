@@ -1,0 +1,119 @@
+Nome: a
+Cognome: a
+Altezza: 12
+Peso: 21.00
+Colore Occhi: e
+Colore Capelli: a
+Tratti: Ha la barba
+Chiave Impronta Digitale: kolkijkuhjikolkj
+Residenza: dsa
+Ultima posizione conosciuta.
+Latitudine: 4332.000000
+Longitudine: 123.000000
+Capelli di media lunghezza.
+STATO: RICERCATO
+
+
+
+Nome: Alessandra
+Cognome: Mezekin
+Altezza: 101
+Peso: 33.34
+Colore Occhi: AAFF33
+Colore Capelli: 76GGH66
+Tratti: Ha la barba
+Chiave Impronta Digitale: ZzSs3FLrzQ2idhlq
+Residenza: Viale Gabriele 3F
+Ultima posizione conosciuta.
+Latitudine: -0.983612
+Longitudine: -0.599170
+Capelli di media lunghezza.
+STATO: EVASO (lol :D)
+
+
+
+Nome: Alessandra
+Cognome: Serra
+Altezza: 195
+Peso: 18.95
+Colore Occhi: FF00FF
+Colore Capelli: FF00FF
+Tratti: Ha la barba
+Chiave Impronta Digitale: PJEyH47AG78CexB7
+Residenza: Via Donatello 3F
+Ultima posizione conosciuta.
+Latitudine: 1.194494
+Longitudine: -0.811304
+Capelli lunghi.
+STATO: RICERCATO
+
+
+
+Nome: Carlo
+Cognome: Ciki
+Altezza: 101
+Peso: 108.93
+Colore Occhi: 778899
+Colore Capelli: 778899
+Tratti: Non ha la barba
+Chiave Impronta Digitale: IWOxotJ47aFvMbrC
+Residenza: Viale Michelangelo 18A
+Ultima posizione conosciuta.
+Latitudine: 1.036653
+Longitudine: -0.326518
+Capelli lunghi.
+STATO: IN ARRESTO
+
+
+
+Nome: Carlo
+Cognome: Radu
+Altezza: 21
+Peso: 138.82
+Colore Occhi: AA345FF
+Colore Capelli: AAFF33
+Tratti: Ha la barba
+Chiave Impronta Digitale: LWkTDf4dNcWJ0xxP
+Residenza: Via Michelangelo 3F
+Ultima posizione conosciuta.
+Latitudine: 1.977386
+Longitudine: -0.280740
+Capelli di media lunghezza.
+STATO: LIBERO
+
+
+
+Nome: Carlo
+Cognome: Serra
+Altezza: 240
+Peso: 28.02
+Colore Occhi: 76GGH66
+Colore Capelli: 000000
+Tratti: Ha la barba
+Chiave Impronta Digitale: nmfmuBXzi87Gsfa4
+Residenza: Piazza Donatello 18A
+Ultima posizione conosciuta.
+Latitudine: 1.203650
+Longitudine: 1.146336
+Capigliatura particolare.
+STATO: LIBERO
+
+
+
+Nome: Luca
+Cognome: Cadeddu
+Altezza: 56
+Peso: 72.12
+Colore Occhi: FF00FF
+Colore Capelli: 76GGH66
+Tratti: Non ha la barba
+Chiave Impronta Digitale: SFP8xCc3mALB2Xhw
+Residenza: Via Donatello 18A
+Ultima posizione conosciuta.
+Latitudine: 1.723136
+Longitudine: 0.386059
+Capelli di media lunghezza.
+STATO: IN ARRESTO
+
+
+
